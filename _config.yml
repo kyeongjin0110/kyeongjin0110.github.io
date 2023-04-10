@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "The Hype-Pipe"
 title_separator          : "-"
-name                     : "Adam Rush"
-description              : "Passionate pseudo-geek, PowerShell lover, and DevOps advocate - falling down the Hype-Pipe, every day."
+name                     : "Kyeongjin Ann"
+description              : "Korea Advanced Institute of Science and Technology (KAIST), School of Computing, Ph.D. candidate at Data Science Lab, Data Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "adamrushuk/kyeongjin0110.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -31,7 +31,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "adamrushuk-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "kyeongjin0110-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "adamrushuk"
+  username               : "kyeongjin0110"
 facebook:
   username               :
   app_id                 :
@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Adam Rush"
-  avatar           : "/assets/images/adam-rush-profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kyeongjin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Passionate pseudo-geek, Automation lover, and DevOps advocate - falling down the Hype-Pipe, every day."
-  location         : "Bristol"
-  # email            : "adamrushuk@gmail.com"
+  location         : "South Korea"
+  email            : "annkj0110@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
