@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyeongjin Ann"
-  avatar           : "/assets/images/kyeongjin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kyeongjin_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Deep learning and Data scientist - falling down the Hype-Pipe, every day."
   location         : "South Korea"
   email            : "annkj0110@gmail.com"
