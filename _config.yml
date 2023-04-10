@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adam Rush"
+  name             : "Kyeongjin Ann"
   avatar           : "/assets/images/kyeongjin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Passionate pseudo-geek, Automation lover, and DevOps advocate - falling down the Hype-Pipe, every day."
+  bio              : "Deep learning and Data scientist - falling down the Hype-Pipe, every day."
   location         : "South Korea"
   email            : "annkj0110@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:adamrushuk@gmail.com"
+      url: "annkj0110@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/adamrushuk"
+      url: "https://github.com/kyeongjin0110"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/adamrushuk"
+      url: "https://github.com/kyeongjin0110"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
